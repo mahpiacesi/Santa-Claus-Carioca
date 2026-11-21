@@ -1,0 +1,4 @@
+repository "Santa Claus BR/Teste@4674272071586@cloud"
+  path "/"
+    br "/main"
+    co "/main"
